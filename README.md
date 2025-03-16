@@ -26,9 +26,10 @@ This repository aims to provide a structured foundation for policymakers, resear
 
 ## Task 1:
 
+### Analysis of Accidents Per 1000 Vehicles (NCRB vs. MoRTH)
+
 ![Accidents Per 1000 Vehicles](https://github.com/Siddu-Marihal/Road-Accidents-and-Emigration-Analysis/blob/c852fb37ec489cc5843ea9772c06ecc8082e5a50/images/Accidents.png)
 
-### Analysis of Accidents Per 1000 Vehicles (NCRB vs. MoRTH)
 1. Overall Trend:
 Both datasets show a declining trend in accidents per 1,000 vehicles from 2011 to 2020, indicating improved road safety.
 2. NCRB vs. MoRTH Data:
@@ -47,4 +48,9 @@ The sharp decline in 2020 can be attributed to reduced vehicular movement during
 Conclusion:
 Despite minor variations, both datasets confirm a significant reduction in road accidents per 1,000 vehicles over time, with COVID-19 further accelerating the decline in 2020.
 
+## Task 2:
+
+### Analysis of Emigration 
+
+![Emigration](
 
