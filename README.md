@@ -30,6 +30,7 @@ This repository aims to provide a structured foundation for policymakers, resear
 
 ![Accidents Per 1000 Vehicles](https://github.com/Siddu-Marihal/Road-Accidents-and-Emigration-Analysis/blob/c852fb37ec489cc5843ea9772c06ecc8082e5a50/images/Accidents.png)
 
+
 #### 1. Overall Trend:
 - Both datasets show a declining trend in accidents per 1,000 vehicles from 2011 to 2020, indicating improved road safety.
 #### 2. NCRB vs. MoRTH Data:
@@ -53,6 +54,7 @@ Improved reporting accuracy in later years.
 ### Analysis of Emigration Data
 
 ![Emigration](https://github.com/Siddu-Marihal/Road-Accidents-and-Emigration-Analysis/blob/25bcf7620bb688b4d419dd307b804cca53252f91/images/Screenshot%202025-03-15%20193658.png)
+
 
 #### 1. Emigration Clearances (MEA vs. E-Migrate) – First Graph
 - 2014 - Large Discrepancy
@@ -101,6 +103,7 @@ Sector Trends: Household work and construction dominate, while skilled sectors r
 
 ![Destinations](https://github.com/Siddu-Marihal/Road-Accidents-and-Emigration-Analysis/blob/25bcf7620bb688b4d419dd307b804cca53252f91/images/Screenshot%202025-03-15%20194648.png)
 
+
 #### 1. Dominant Destinations
 Saudi Arabia (1.21M emigrants) – The largest destination, reflecting strong demand for Indian migrant workers, especially in construction and household sectors.
 UAE (0.99M emigrants) – A close second, driven by job opportunities in construction, hospitality, and retail.
@@ -117,6 +120,7 @@ Minimal emigration to Southeast Asia, likely due to better job prospects in the 
 ### Complaints Received And Prosecution Sanctions Against Illegal Recruitment Agents Analysis
 
 ![Complaints and Actions](https://github.com/Siddu-Marihal/Road-Accidents-and-Emigration-Analysis/blob/25bcf7620bb688b4d419dd307b804cca53252f91/images/Screenshot%202025-03-15%20200430.png)
+
 
 #### Analysis of Complaints and Emigration Cases Referred to State (First Graph)
 - The number of complaints and emigration cases referred to the state has fluctuated over the years, with peaks in 2017, 2019, and 2023.
