@@ -1,0 +1,11 @@
+MoRTH,State/UT,Total Number of Road Accidents (2011),Vehicles Reg. (in thousands),Accidents Per 1000 Vehicles,NCRB Report,State/UT,Total Number of Road Accidents (2011),Vehicles Reg. (in thousands),Accidents Per 1000 Vehicles,Do the reports match
+"Reporting year (2011-2020) for road accident data, 
+sourced from the Ministry of Road Transport and Highways (MoRTH), Government of India.",Name of the Indian state or union territory for which data is recorded.,"The total number of road accidents reported in the respective year (2011 onward).
+Source: https://morth.nic.in/road-accident-in-india","The number of registered vehicles (in thousands) for the corresponding state/year.
+Source: https://morth.nic.in/road-transport-year-books","The number of road accidents per 1000 registered vehicles in the respective state/year.
+Formula used = Total Accidents / Total Registered Vehicles * 1000","Reporting year (2011-2020) for accidental deaths data, 
+sourced from the National Crime Records Bureau (NCRB), Government of India.",Name of the Indian state or union territory for which data is recorded.,"The total number of road accidents reported in the respective year (2011 onward).
+Source: https://www.ncrb.gov.in/accidental-deaths-suicides-in-india-year-wise.html
+","The number of registered vehicles (in thousands) for the corresponding state/year.
+Source: https://morth.nic.in/road-transport-year-books","The number of road accidents per 1000 registered vehicles in the respective state/year.
+Formula used = Total Accidents / Total Registered Vehicles * 1000",column indicating whether MoRTH and NCRB data match for a given state in the reporting year.
