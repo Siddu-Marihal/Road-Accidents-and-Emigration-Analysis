@@ -58,24 +58,28 @@ Improved reporting accuracy in later years.
 - 2014 - Large Discrepancy
 MEA: 805K clearances
 E-Migrate: Only 210K clearances
-Comment: MEA likely included manual records, while E-Migrate accounted for digitally processed applications.
+
+- Comment: MEA likely included manual records, while E-Migrate accounted for digitally processed applications.
 
 - 2019 - Noticeable Difference
 MEA: 368K clearances
 E-Migrate: 82K clearances
-Comment: Possible data reporting differences or missing entries in E-Migrate.
+
+- Comment: Possible data reporting differences or missing entries in E-Migrate.
 
 - 2020 - COVID Impact
 Both datasets show a sharp decline to 94K, reflecting global travel restrictions.
 Post-2020 Recovery
 Emigration numbers gradually increased, with MEA and E-Migrate showing similar trends (~398K in 2023).
-Comment: Better data synchronization and integration of digital records over time.
+
+- Comment: Better data synchronization and integration of digital records over time.
 
 #### 2. Number of Employers Registered – Second Graph
 - Peak in 2016 (64K registrations), followed by a steady decline.
 - Sharp drop in 2020 (6K registrations) due to COVID-related disruptions.
 - Recovery in 2022 (44K registrations), but numbers dropped again in 2023 (9K) and 2024 (10K).
-Comment: The decline post-2022 suggests persistent challenges such as stricter regulations, economic slowdowns, or reduced foreign hiring demand.
+
+- Comment: The decline post-2022 suggests persistent challenges such as stricter regulations, economic slowdowns, or reduced foreign hiring demand.
 
 #### 3. Sector-Wise Distribution of Employers – Third Graph
 - Top sectors for foreign employment:
@@ -84,7 +88,8 @@ Construction (40K) – A key sector for Indian migrant workers.
 Manufacturing (11K), Accommodation & Food Services (9K), Retail Trade (7.7K).
 - Least Represented Sectors:
 Education (545), Agriculture & Forestry (2.1K).
-Comment: Most jobs are in low-skilled or semi-skilled sectors, while highly skilled sectors like Education remain limited.
+
+- Comment: Most jobs are in low-skilled or semi-skilled sectors, while highly skilled sectors like Education remain limited.
 
 #### Key Takeaways
 Data Discrepancies (2014, 2019): MEA data was higher than E-Migrate, suggesting manual record inclusion.
@@ -120,7 +125,7 @@ Minimal emigration to Southeast Asia, likely due to better job prospects in the 
 - In 2024, complaints (0.58K) are higher than in 2017 (0.45K) but lower than in 2019 (0.77K) and 2023 (1.01K). However, cases referred in 2024 (0.07K) are significantly lower than in 2017 (0.45K) and 2019 (0.77K).
 - The decline in 2024 compared to 2023 is evident, but the complaint numbers remain relatively high, while cases referred continue to drop.
 
-#### Analysis of Prosecution Sanctions Sought and Issued (Graph 2)
+#### Analysis of Prosecution Sanctions Sought and Issued (Second Graph)
 
 - The number of prosecution sanctions sought and issued peaked in 2016 (42), indicating a major crackdown that year.
 - 2019 saw another high (35), though lower than 2016. This suggests periodic surges in legal action against violators.
